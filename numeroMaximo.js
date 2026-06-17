@@ -1,5 +1,5 @@
 function findMax(arr) {
-    // condición del caso base: si el arreglo tiene un solo elemento, ese elemento es el máximo.
+    // Caso base: si el arreglo tiene un solo elemento, ese elemento es el máximo.
     if (arr.length === 1) {
         return arr[0];
     }
