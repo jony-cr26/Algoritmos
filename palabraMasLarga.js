@@ -22,4 +22,3 @@ const parrafo = "Estás desarrollando una herramienta para ayudar a escritores";
 const resultado = findLongestWord(parrafo);
 
 console.log("La palabra más larga es:", resultado); 
-// Salida esperada: "desarrollando"
